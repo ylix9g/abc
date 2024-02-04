@@ -1,6 +1,8 @@
 public class X {
 
     void a() {
-        System.out.println("a");
+        if (true) {
+            System.out.println("a");
+        }
     }
 }
